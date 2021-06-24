@@ -5,13 +5,13 @@ This project Aims to use data about a buisnesses current clients, to train a mod
 An Alpha run was undertaken which used live data from Stanford Marsh, a (3D) printing company. They provided client data, and we provided the model's output.
 
 At the moment, the feature set includes: 
--TurnoverY0
--AssetsY0
--AdminCostsY0
--Turnover%change
--Turnover/Employee
--StaffCostsPerEmployee
--TurnoverPerAdmin
+- TurnoverY0
+- AssetsY0
+- AdminCostsY0
+- Turnover%change
+- Turnover/Employee
+- StaffCostsPerEmployee
+- TurnoverPerAdmin
 
 We want to test features such as '# of patents', and social features; although accessing this data is difficult, and so financial data available through XBRL mining was used.
 
